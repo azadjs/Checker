@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1486288354 source:c:\users\azad m\desktop\c++\checker\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<vector>
+
+1486661223 source:c:\users\hp\desktop\checker\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<vector>
+	<cmath>
+
+1487259494 source:c:\users\casper\desktop\checker\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<vector>
+	<cmath>
+
+1488292629 source:c:\users\azad m\desktop\checker\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<vector>
+	<cmath>
+
